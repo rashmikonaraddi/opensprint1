@@ -21,14 +21,6 @@ The system detects a hand sign using the webcam and then creates multiple visual
 * Naruto sound effect trigger
 * Interactive computer vision demo
 
-## Project Structure
-
-ai-lie-detector/
-│
-├── naruto_jutsu.py
-├── shadow_clone_jutsu.mp3
-└── README.txt
-
 ## Installation
 
 1. Create a virtual environment
